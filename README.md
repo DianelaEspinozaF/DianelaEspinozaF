@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFC8DD&center=true&vCenter=true&width=600&lines=Hi!+I'm+Dianela+Espinoza+%F0%9F%91%8B;Data+Science+%26+Public+Policy+%7C+LSE;Passionate+about+Education+%F0%9F%93%9A;Peruvian+Scholar+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
