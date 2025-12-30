@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-I'm Dianela, from Chiclayo, Peru. I'm a Master's candidate in **Data Science and Public Policy** at the **London School of Economics (LSE)**.
+I'm Dianela, from Chiclayo, Peru. I'm an economist and Master's candidate in **Data Science and Public Policy** at the **London School of Economics (LSE)**.
 
 🏆 **Peruvian Scholarship for Public Service**
 
