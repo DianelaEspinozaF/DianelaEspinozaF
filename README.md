@@ -23,4 +23,4 @@ I'm Dianela, from Chiclayo, Peru. I'm a Master's candidate in **Data Science and
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianelaespinoza/)
 [![Website](https://img.shields.io/badge/Website-FFC8DD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dianelaespinozaf.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.j.espinoza-fernandez@lse.ac.uk)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:d.j.espinoza-fernandez@lse.ac.uk)
